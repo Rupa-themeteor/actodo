@@ -27,13 +27,49 @@ Includes **Login/Signup authentication**, smooth navigation with **React Router*
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/react-todo-app.git
+git clone (https://github.com/Rupa-themeteor/actodo)
 
 # Navigate to the project folder
 cd react-todo-app
 
 # Install dependencies
+
+
 npm install
+
+<img width="832" height="396" alt="image" src="https://github.com/user-attachments/assets/d1323202-cdeb-46ad-b47f-4faf41970b5b" />
+
+
+
+🧠 What I Learned
+
+Implementing user authentication in React
+
+Managing routes with React Router
+
+Building reusable React components
+
+Creating responsive, user-friendly UIs
+
+💡 Future Improvements
+
+✅ Dark mode
+
+✅ Task categories & reminders
+
+✅ Cloud-based storage
+
+📬 Contact
+
+👩‍💻 Rupa Gowri Bavadhara Varsini 
+📧 rupavarsh01102004@gmail.com
+
+🔗 https://www.linkedin.com/in/rupagowri/
+ | GitHub
+
+⭐ If you like this project, don’t forget to star the repo!
+
+🙏 Thanks for visiting!
 
 # Start the development server
 npm start
