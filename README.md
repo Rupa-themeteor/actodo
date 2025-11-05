@@ -1,72 +1,16 @@
-# 🗓️ React To-Do App
+# React + Vite
 
-A sleek and smart To-Do web application built using **React** to help users plan and organize their daily activities efficiently.  
-Includes **Login/Signup authentication**, smooth navigation with **React Router**, and a clean, responsive UI for an effortless task management experience.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🚀 Features
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- ✨ **User Authentication** – Secure Login & Signup system  
-- 🧭 **React Router Integration** – Smooth page navigation  
-- 🧾 **Add, Edit, Delete Tasks** – Manage daily activities with ease  
-- 💾 **Persistent Data** – Tasks stay saved for each user  
-- 📱 **Responsive UI** – Works seamlessly on all devices  
+## React Compiler
 
----
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## 🛠️ Tech Stack
+## Expanding the ESLint configuration
 
-- **Frontend:** React, React Router, CSS  
-- **Authentication:** Local Storage / Firebase (if used)  
-- **Styling:** CSS / Tailwind (update based on your project)  
-
----
-
-## 📂 Project Setup
-
-```bash
-# Clone the repository
-git clone (https://github.com/Rupa-themeteor/actodo)
-
-# Navigate to the project folder
-cd react-todo-app
-
-# Install dependencies
-
-
-npm install
-
-
-🧠 What I Learned
-
-Implementing user authentication in React
-
-Managing routes with React Router
-
-Building reusable React components
-
-Creating responsive, user-friendly UIs
-
-💡 Future Improvements
-
-✅ Dark mode
-
-✅ Task categories & reminders
-
-✅ Cloud-based storage
-
-📬 Contact
-
-👩‍💻 Rupa Gowri Bavadhara Varsini 
-📧 rupavarsh01102004@gmail.com
-
-🔗 https://www.linkedin.com/in/rupagowri/
- | GitHub
-
-⭐ If you like this project, don’t forget to star the repo!
-
-🙏 Thanks for visiting!
-
-# Start the development server
-npm start
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
