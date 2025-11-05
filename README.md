@@ -37,9 +37,6 @@ cd react-todo-app
 
 npm install
 
-<img width="832" height="396" alt="image" src="https://github.com/user-attachments/assets/d1323202-cdeb-46ad-b47f-4faf41970b5b" />
-
-
 
 🧠 What I Learned
 
